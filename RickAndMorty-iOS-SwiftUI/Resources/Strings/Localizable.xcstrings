@@ -1,0 +1,89 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "empty.state" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aún no tienes personajes favoritos, agrégalos haciendo click en el corazón de la página de personajes"
+          }
+        }
+      }
+    },
+    "error.state" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lo sentimos, ha ocurrido un error o el personaje que buscas no existe."
+          }
+        }
+      }
+    },
+    "favorite.empty.state" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ups! personaje no encontrado"
+          }
+        }
+      }
+    },
+    "Favoritos" : {
+
+    },
+    "initial.state" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Realiza una búsqueda para encontrar personajes. "
+          }
+        }
+      }
+    },
+    "internet.error.state" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No tienes conexión a internet, revisa tu conexión e intenta nuevamente."
+          }
+        }
+      }
+    },
+    "Personajes" : {
+
+    },
+    "search" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buscar personajes"
+          }
+        }
+      }
+    },
+    "seemore" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ver más"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

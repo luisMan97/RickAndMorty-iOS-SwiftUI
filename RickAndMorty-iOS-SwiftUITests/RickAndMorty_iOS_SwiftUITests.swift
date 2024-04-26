@@ -2,7 +2,7 @@
 //  RickAndMorty_iOS_SwiftUITests.swift
 //  RickAndMorty-iOS-SwiftUITests
 //
-//  Created by Joan Narvaez on 23/04/24.
+//  Created by Jorge Luis Rivera Ladino on 23/04/24.
 //
 
 import XCTest
